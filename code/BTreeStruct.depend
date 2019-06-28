@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1559947877 source:c:\users\lucas\c  c++\projetos\btreestruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"BTreeStruct.h"
+	<locale.h>
+
+1559943111 c:\users\lucas\c  c++\projetos\btreestruct\btreestruct.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1559943111 source:c:\users\lucas\c  c++\projetos\btreestruct\btreestruct.c
+	"BTreeStruct.h"
+	<locale.h>
+
+1559939372 source:c:\users\lucas\c  c++\projetos\btreestruct\boxbtree.c
+	"BTreeStruct.h"
+	<locale.h>
+	<conio.h>
+	<windows.h>
+
+1559754342 source:c:\users\lucas\c  c++\projetos\btreestruct\hash.c
+
+1559939278 source:c:\users\lucas\c  c++\projetos\btreestruct\listar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"BTreeStruct.h"
+	<locale.h>
+
+1559939278 source:c:\users\lucas\c  c++\projetos\btreestruct\pesquisasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"BTreeStruct.h"
+	<locale.h>
+
+1559892151 source:c:\users\lucas\c  c++\projetos\btreestruct\sigla.c
+
