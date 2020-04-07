@@ -1,3 +1,3 @@
 # Btree
 
-Projeto de conclusão Aeds II, usando árvore b para ordenar dados
+Projeto AEDS II 2019, usando árvore b para ordenar dados que são pegos de um arquivo.txt.
